@@ -1,0 +1,24 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "curso",
+    "de",
+    "nodejs"
+  ],
+  "author": "Cipriano Escorche",
+  "license": "ISC"
+}
